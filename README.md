@@ -35,7 +35,7 @@ void introduce(DevInProgress me) {
         printf("%s ", me.languages[i]);
     }
 
-    printf("\n Obrigada por visitar meu repositório! <3 \n");
+    printf("\n Obrigada por visitar meu perfi! <3 \n");
 }
 
 ```
