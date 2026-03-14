@@ -17,7 +17,7 @@ void introduce(DevInProgress me);
 int main() {
     DevInProgress me = {
         .name = "Julia",
-        .role = "Estudante de ADS, aprendendo programação >.< ",
+        .role = "ADS, com foco em Cybersecurity",
         .languages = {"pt_BR", "en_US", NULL}
     };
 
@@ -28,7 +28,7 @@ int main() {
 
 void introduce(DevInProgress me) {
     printf("Oie! Eu sou a %s!\n", me.name);
-    printf("Atualmente: %s\n", me.role);
+    printf("Área de estudo: %s\n", me.role);
 
     printf("Idiomas: ");
     for (int i = 0; me.languages[i] != NULL; i++) {
@@ -56,7 +56,7 @@ void introduce(DevInProgress me) {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,debian,bash,c,py,sublime,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,debian,bash,c,py,sublime" />
   </a>
 </p>
 
