@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile :3
 <p align="center">
-  <img src="https://github.com/0xjuL14/0xjuL14/blob/8f1034a19e38e28781c943065fbf18a2a146b6f5/assets/0xjuL14%20banner%201400x400px%20alta%20qualidade.png"
+     <img src="https://raw.githubusercontent.com/0xjuL14/0xjuL14/8f1034a19e38e28781c943065fbf18a2a146b6f5/assets/0xjuL14%20banner%201400x400px%20alta%20qualidade.png" alt="Banner" width="100%" />
   </p>
     
 > "*The digital world is a bridge between curious hearts, made of bits and love." - @0xjuL14*
