@@ -44,54 +44,55 @@ void introduce(DevInProgress me) {
 
 ```
 
-> "*Códigos também são poesia.*" 
+> "*Códigos também são poesia.*"
 
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yumekojulia/yumekojulia/output/github-contribution-grid-snake-dark.svg"> <img alt="snake animation" src="https://raw.githubusercontent.com/yumekojulia/yumekojulia/output/github-contribution-grid-snake.svg"> </picture>
-
-<br><br> 
-
-<!--
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xjuL14&layout=compact&langs_count=7&theme=dracula"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=0xjuL14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div> 
--->
 <div align="center">
 
-### I'm always learning:
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,debian,bash,c,html,css,js,java,mysql,md,py" />
-  </a>
-</p>
-
-<br>
+<a href="https://github.com/0xjuL14">
+  <img width="400" src="https://github-stats-extended.vercel.app/api/top-langs?username=0xjuL14&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Most used languages" />
+</a>
+<img src="https://raw.githubusercontent.com/yumekojulia/yumekojulia/main/assets/gatinhocode.GIF" width="250" alt="Gatinho programando" />
+<img src="https://raw.githubusercontent.com/yumekojulia/yumekojulia/main/assets/sobre.svg" width="320" alt="Sobre mim" />
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yumekojulia/yumekojulia/main/assets/gatinhocode.GIF" width="300">
-</p>
+<br>
 
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yumekojulia/yumekojulia/output/github-contribution-grid-snake-dark.svg"> <img alt="snake animation" src="https://raw.githubusercontent.com/yumekojulia/yumekojulia/output/github-contribution-grid-snake.svg"> </picture>
+
+<br><br>
+
+<div align="center">
+<a href="https://github.com/0xjuL14/faculdade-ads">
+  <img width="400" src="https://github-stats-extended.vercel.app/api/pin?username=0xjuL14&repo=0xjuL14%2Ffaculdade-ads&show_owner=true&theme=midnight-purple" alt="Repositório faculdade-ads" />
+</a>
+<a href="https://github.com/0xjuL14/Super_Tic_Tac_Toe">
+  <img width="400" src="https://github-stats-extended.vercel.app/api/pin?username=0xjuL14&repo=0xjuL14%2FSuper_Tic_Tac_Toe&show_owner=true&theme=midnight-purple" alt="Repositório Super_Tic_Tac_Toe" />
+</a>
+<br><br>
+<a href="https://github.com/0xjuL14">
+  <img width="500" src="https://github-stats-extended.vercel.app/api?username=0xjuL14&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub stats" />
+</a>
+<br>
+
+
+
+</div>
+
+
+
+
+<!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=0xjuL14&repo=0xjuL14%2Fjogo-java&show_owner=true&disable_animations=false&theme=midnight-purple)](https://github.com/0xjuL14/jogo-java) -->
+
+<!-- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,debian,bash,c,html,css,js,java,mysql,md,py" />
+  </a>
+</p> -->
+<br>
 
 <p align="center">
   <a href="https://github.com/yumekojulia/yumekojulia/discussions" style="text-decoration: none;">
     <kbd> 💬 Join the discussion </kbd>
   </a>
 </p>
-
-
-
-<!--
-**yumekojulia/yumekojulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
