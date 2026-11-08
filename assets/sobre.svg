@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="250" viewBox="0 0 320 250">
+  <rect x="0.5" y="0.5" width="319" height="249" rx="4.5" fill="#000000" stroke="#e4e2e2"/>
+  <g font-family="JetBrains Mono, Fira Code, DejaVu Sans Mono, monospace" font-size="12">
+    <text x="24" y="34" font-size="15" font-weight="700" fill="#7fff00">julia@jdebian</text>
+    <text x="24" y="50" fill="#555555">-------------------------</text>
+
+    <text x="24" y="74" fill="#a855f7">OS:</text>
+    <text x="96" y="74" fill="#e4e2e2">Debian 13 (trixie)</text>
+    <text x="24" y="93" fill="#a855f7">Host:</text>
+    <text x="96" y="93" fill="#e4e2e2">ThinkPad E14 Gen 6</text>
+    <text x="24" y="131" fill="#a855f7">Shell:</text>
+    <text x="96" y="131" fill="#e4e2e2">zsh 5.9</text>
+    <text x="24" y="150" fill="#a855f7">Terminal:</text>
+    <text x="96" y="150" fill="#e4e2e2">kitty 0.41.1</text>
+    <text x="24" y="169" fill="#a855f7">DE/WM:</text>
+    <text x="96" y="169" fill="#e4e2e2">KDE Plasma 6.3 (Wayland)</text>
+    <text x="24" y="188" fill="#a855f7">CPU:</text>
+    <text x="96" y="188" fill="#e4e2e2">Ryzen 7 7735HS</text>
+    <text x="24" y="207" fill="#a855f7">GPU:</text>
+    <text x="96" y="207" fill="#e4e2e2">Radeon 680M</text>
+  </g>
+  <rect x="24"  y="222" width="22" height="12" fill="#7fff00"/>
+  <rect x="46"  y="222" width="22" height="12" fill="#a855f7"/>
+  <rect x="68"  y="222" width="22" height="12" fill="#e4e2e2"/>
+  <rect x="90"  y="222" width="22" height="12" fill="#555555"/>
+</svg>
