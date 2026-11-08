@@ -70,17 +70,29 @@ void introduce(DevInProgress me) {
   <img width="400" src="https://github-stats-extended.vercel.app/api/pin?username=0xjuL14&repo=0xjuL14%2FSuper_Tic_Tac_Toe&show_owner=true&theme=midnight-purple" alt="Repositório Super_Tic_Tac_Toe" />
 </a>
 <br><br>
-<a href="https://github.com/0xjuL14">
-  <img width="500" src="https://github-stats-extended.vercel.app/api?username=0xjuL14&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub stats" />
-</a>
-<br>
+<div align="center">
 
-
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/0xjuL14">
+        <img width="460" src="https://github-stats-extended.vercel.app/api?username=0xjuL14&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub stats" />
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://0xjul14.github.io">
+        <img height="40" src="https://raw.githubusercontent.com/0xjuL14/0xjuL14/main/assets/botao-site.svg" alt="Meu site" />
+      </a>
+      <br><br>
+      <a href="https://github.com/yumekojulia/yumekojulia/discussions">
+        <img height="40" src="https://raw.githubusercontent.com/0xjuL14/0xjuL14/main/assets/botao-discussao.svg" alt="Join the discussion" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-
-
+</div>
 
 <!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=0xjuL14&repo=0xjuL14%2Fjogo-java&show_owner=true&disable_animations=false&theme=midnight-purple)](https://github.com/0xjuL14/jogo-java) -->
 
@@ -89,10 +101,3 @@ void introduce(DevInProgress me) {
     <img src="https://skillicons.dev/icons?i=git,github,linux,debian,bash,c,html,css,js,java,mysql,md,py" />
   </a>
 </p> -->
-<br>
-
-<p align="center">
-  <a href="https://github.com/yumekojulia/yumekojulia/discussions" style="text-decoration: none;">
-    <kbd> 💬 Join the discussion </kbd>
-  </a>
-</p>
