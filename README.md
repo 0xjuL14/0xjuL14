@@ -84,6 +84,10 @@ void introduce(DevInProgress me) {
         <img height="40" src="https://raw.githubusercontent.com/0xjuL14/0xjuL14/main/assets/botao-site.svg" alt="Meu site" />
       </a>
       <br><br>
+      <a href="mailto:0xjul14@pm.me">
+        <img height="40" src="https://raw.githubusercontent.com/0xjuL14/0xjuL14/main/assets/botao-contato.svg" alt="Contact me!" />
+      </a>
+      <br><br>
       <a href="https://github.com/yumekojulia/yumekojulia/discussions">
         <img height="40" src="https://raw.githubusercontent.com/0xjuL14/0xjuL14/main/assets/botao-discussao.svg" alt="Join the discussion" />
       </a>
