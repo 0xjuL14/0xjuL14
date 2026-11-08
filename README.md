@@ -49,10 +49,10 @@ void introduce(DevInProgress me) {
 <div align="center">
 
 <a href="https://github.com/0xjuL14">
-  <img height="235" src="https://github-stats-extended.vercel.app/api/top-langs?username=0xjuL14&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Most used languages" />
+  <img align="middle" height="235" src="https://github-stats-extended.vercel.app/api/top-langs?username=0xjuL14&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Most used languages" />
 </a>
-<img height="210" src="https://raw.githubusercontent.com/yumekojulia/yumekojulia/main/assets/gatinhocode.GIF" alt="Gatinho programando" />
-<img height="210" src="https://raw.githubusercontent.com/yumekojulia/yumekojulia/main/assets/sobre.svg" alt="Setup" />
+<img align="middle" height="210" src="https://raw.githubusercontent.com/yumekojulia/yumekojulia/main/assets/gatinhocode.GIF" alt="Gatinho programando" />
+<img align="middle" height="210" src="https://raw.githubusercontent.com/yumekojulia/yumekojulia/main/assets/sobre.svg" alt="Setup" />
 
 </div>
 
