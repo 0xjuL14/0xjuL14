@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="44" viewBox="0 0 220 44">
+  <rect x="0.5" y="0.5" width="219" height="43" rx="6" fill="#000000" stroke="#a855f7"/>
+  <text x="22" y="28" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="14" font-weight="700" fill="#7fff00">$</text>
+  <text x="40" y="28" font-family="JetBrains Mono, DejaVu Sans Mono, monospace" font-size="14" font-weight="700" fill="#e4e2e2">Contact me!</text>
+</svg>
