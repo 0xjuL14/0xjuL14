@@ -66,6 +66,9 @@ void introduce(DevInProgress me) {
 <a href="https://github.com/0xjuL14/faculdade-ads">
   <img width="400" src="https://github-stats-extended.vercel.app/api/pin?username=0xjuL14&repo=0xjuL14%2Ffaculdade-ads&show_owner=true&theme=midnight-purple" alt="Repositório faculdade-ads" />
 </a>
+<a href="https://github.com/0xjuL14/jogo-RJ45-Cat5e">
+  <img width="400" src="https://github-stats-extended.vercel.app/api/pin?username=0xjuL14&repo=0xjuL14%2Fjogo-RJ45-Cat5e&show_owner=true&theme=midnight-purple" alt="Repositório jogo-RJ45-Cat5e" />
+</a>   
 <a href="https://github.com/0xjuL14/Super_Tic_Tac_Toe">
   <img width="400" src="https://github-stats-extended.vercel.app/api/pin?username=0xjuL14&repo=0xjuL14%2FSuper_Tic_Tac_Toe&show_owner=true&theme=midnight-purple" alt="Repositório Super_Tic_Tac_Toe" />
 </a>
